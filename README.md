@@ -1,1 +1,1 @@
-# Deep Learning Tutorials with PyTorch
+# List of my deep learning tutorials using PyTorch
