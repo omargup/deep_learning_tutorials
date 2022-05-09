@@ -2,22 +2,26 @@
 
 ## Generative Adversarial Newtorks
 
-* [Vanilla GAN](https://github.com/omargup/vanilla_gan)
-* [Deep Convolutional GAN](https://github.com/omargup/deep_convolutional_gan)
+- [Vanilla GAN](https://github.com/omargup/vanilla_gan)
+- [Deep Convolutional GAN](https://github.com/omargup/deep_convolutional_gan)
+
+## Hyperparameter tunning
+
+- [Ray Tune]
 
 ## Graph Neural Networks 
 
-* ToDo 
+- ToDo 
 
 
 ## Convolutional Neural Networks
 
-* ToDo
+- ToDo
 
 ## Autoencoders
 
-* ToDo
+- ToDo
 
 ## Intro to PyTorch
 
-* ToDo
+- ToDo
